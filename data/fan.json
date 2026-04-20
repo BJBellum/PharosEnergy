@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-04-14",
+  "updated": "2026-04-20",
   "bataillons": [
     {
       "id": "bat_01",
@@ -498,6 +498,15 @@
         "cout_prod": 516,
         "cout_vente": 999,
         "id": "eq_1776175835115"
+      },
+      {
+        "nom": "BQ-10",
+        "categorie": "Terrestre",
+        "niveau_requis": 5,
+        "cout_slots": 2,
+        "cout_prod": 579,
+        "cout_vente": 1399,
+        "id": "eq_1776724848343"
       },
       {
         "id": "eq_12",
